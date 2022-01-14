@@ -1,3 +1,8 @@
+/* This script takes an array as input and returns the same array in sorted order
+For giving input :
+First line provide size of array say "n" and next n lines provide elements of array.
+*/
+
 import java.util.Arrays;
 import java.util.Scanner;
 
